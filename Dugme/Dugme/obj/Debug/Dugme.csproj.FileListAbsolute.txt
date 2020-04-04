@@ -1,0 +1,10 @@
+C:\Users\vujanovic\source\repos\Dugme\Dugme\bin\Debug\Dugme.exe.config
+C:\Users\vujanovic\source\repos\Dugme\Dugme\bin\Debug\Dugme.exe
+C:\Users\vujanovic\source\repos\Dugme\Dugme\bin\Debug\Dugme.pdb
+C:\Users\vujanovic\source\repos\Dugme\Dugme\obj\Debug\Dugme.csprojAssemblyReference.cache
+C:\Users\vujanovic\source\repos\Dugme\Dugme\obj\Debug\Dugme.Form1.resources
+C:\Users\vujanovic\source\repos\Dugme\Dugme\obj\Debug\Dugme.Properties.Resources.resources
+C:\Users\vujanovic\source\repos\Dugme\Dugme\obj\Debug\Dugme.csproj.GenerateResource.cache
+C:\Users\vujanovic\source\repos\Dugme\Dugme\obj\Debug\Dugme.csproj.CoreCompileInputs.cache
+C:\Users\vujanovic\source\repos\Dugme\Dugme\obj\Debug\Dugme.exe
+C:\Users\vujanovic\source\repos\Dugme\Dugme\obj\Debug\Dugme.pdb
