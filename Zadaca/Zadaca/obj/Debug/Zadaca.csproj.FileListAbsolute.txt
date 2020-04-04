@@ -1,0 +1,10 @@
+C:\Users\vujanovic\source\repos\Zadaca\Zadaca\obj\Debug\Zadaca.csprojAssemblyReference.cache
+C:\Users\vujanovic\source\repos\Zadaca\Zadaca\obj\Debug\Zadaca.Form1.resources
+C:\Users\vujanovic\source\repos\Zadaca\Zadaca\obj\Debug\Zadaca.Properties.Resources.resources
+C:\Users\vujanovic\source\repos\Zadaca\Zadaca\obj\Debug\Zadaca.csproj.GenerateResource.cache
+C:\Users\vujanovic\source\repos\Zadaca\Zadaca\obj\Debug\Zadaca.csproj.CoreCompileInputs.cache
+C:\Users\vujanovic\source\repos\Zadaca\Zadaca\bin\Debug\Zadaca.exe.config
+C:\Users\vujanovic\source\repos\Zadaca\Zadaca\bin\Debug\Zadaca.exe
+C:\Users\vujanovic\source\repos\Zadaca\Zadaca\bin\Debug\Zadaca.pdb
+C:\Users\vujanovic\source\repos\Zadaca\Zadaca\obj\Debug\Zadaca.exe
+C:\Users\vujanovic\source\repos\Zadaca\Zadaca\obj\Debug\Zadaca.pdb
